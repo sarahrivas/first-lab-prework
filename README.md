@@ -42,7 +42,7 @@ copy button next to the Clone URL to copy it to your clipboard.
 
 <img width="100%" height="auto" src="https://curriculum-content.s3.amazonaws.com/web-development/enough-git-for-learn-co/Clone.png" alt="Ironboard Labs Step 2">
 
-Next, in Terminal navigate to the parent directory where you would like to place this lab. Then type:  `git clone <paste the clone URL here>`  
+Next, in Terminal navigate to the parent directory where you would like to place this lab. Then type:  `git clone git@github.com:learn-co-students/first-lab-prework.git`  
 
 Note: You should replace the &lt;paste the clone URL here&gt; including the &lt; and &gt; symbols in the snippet above with your actual clone URL by pressing command+v on mac or ctrl+v on windows. Example: git clone git@github.com:jongrover/first-lab-000.git
 
